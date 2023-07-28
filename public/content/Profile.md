@@ -1,8 +1,8 @@
 ## Site Name
-- Portable Portfolio
+- Maxwell Sainvil
 
 ## Header
-- Hi, my name is Eldora. 
+- Hi, my name is Maxwell. 
 - I'm a software engineer.
 - Short Description Here.
 
@@ -11,9 +11,9 @@ Write your "About" section here.
 
 ## Contact
 Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- LinkedIn: https://www.linkedin.com/in/maxwell-sainvil/
+- GitHub: https://github.com/msainvil
+- Email: maxwell.sainvil@gmail.com
 
 ## Logo
-- EB
+- SM
